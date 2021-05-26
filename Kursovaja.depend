@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590174102 source:c:\users\lapin\desktop\veravorobeva\kursovaja\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+
